@@ -4,7 +4,7 @@ In this project, we'll predict tomorrow's temperature using historical data. I'l
 # Tools
 i use tools
 * JupyerLab
-* Python 3.8+
+* Python 3.10.6
 * Python packages
     * pandas
     * scikit-learn
